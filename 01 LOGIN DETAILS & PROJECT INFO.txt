@@ -2,7 +2,7 @@
 
 **Database Name: orrsphp**
 
-**Developed by Martin Mbithi Nzilani**
+**Developed by NickDevops**
 
 **Recommended PHP Version: 5.6, 7.4, 8.1**
 
