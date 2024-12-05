@@ -65,7 +65,7 @@
 								<li class="icon brands fa-instagram"><a href="#">instagram.com/orrs</a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Online Railway Reservation System.</li><li>Developed By: Nicholas Muindeilani</li>
+								<li>&copy; Online Railway Reservation System.</li><li>Developed By: Nicholas Muinde</li>
 							</ul>
 						</div>
 					</section>
